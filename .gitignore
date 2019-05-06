@@ -1,0 +1,4 @@
+# except des fichiers de logs et password
+/logs
+!/logs/.gitkeep
+config.yaml
